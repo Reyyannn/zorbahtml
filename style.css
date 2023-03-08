@@ -1,0 +1,32 @@
+
+.veggies{
+    color:pink;
+    background-color: aliceblue;
+    height: 100px;
+    width: 100px;
+    border: 1px salmon;
+}
+
+.cities{
+    color:black;
+    background-color: beige;
+    height:100px;
+    width: 100px;
+    border: 1px seagreen
+}
+
+.students{
+    border: 2px red;
+    color:blue;
+    height: auto;
+    width: auto;
+    background-color: greenyellow;
+}
+
+.studentid{
+    color: blueviolet;
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    border: 2px gray;
+}
